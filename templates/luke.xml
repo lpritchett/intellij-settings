@@ -1,0 +1,55 @@
+<templateSet group="luke">
+  <template name="when" value="org.mockito.Mockito.when($SELECTION$).thenReturn($END$);" description="Mockito when" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="verify" value="org.mockito.Mockito.verify($SELECTION$).$END$;" shortcut="TAB" description="" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mock" value="@Mock&#10;$SELECTION$" description="Mock a field" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@org.junit.Test&#10;public void test$END$() {&#10;&#10;}" description="Create a junit Test" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ase" value="org.junit.Assert.assertEquals($END$);" description="Assert Equals" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ast" value="org.junit.Assert.assertTrue($END$);" description="Assert True" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="asf" value="org.junit.Assert.assertFalse($END$);" description="Assert False" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tolist" value=".collect(Collectors.toList())" description="Create to List after Stream" toReformat="false" toShortenFQNames="true" />
+  <template name="log" value="private static final org.slf4j.Logger LOGGER = LoggerFactory.getLogger($className$.class);$END$" description="slf4j logger" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="provide" value="@com.google.inject.Provides&#10;@com.google.inject.Singleton&#10;public $KLAZZ$ provide$KLAZZ$() {&#10;    return $END$;&#10;}" description="Guice Provider Method" toReformat="false" toShortenFQNames="true">
+    <variable name="KLAZZ" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="before" value="@Before&#10;public void setup(){&#10;    $END$&#10;}" description="Junit Before" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
