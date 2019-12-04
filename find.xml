@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/ROMUtilitiesLambda/src/com/amazon/rom/utilities/lambda/lp/parse/ConstraintParser.java [ROMUtilitiesLambda]'" />
-    <option name="defaultScopeName" value="File '.../src/ROMUtilitiesLambda/src/com/amazon/rom/utilities/lambda/lp/parse/ConstraintParser.java [ROMUtilitiesLambda]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../src/ROMUtilitiesLambda/src/com/amazon/rom/utilities/lambda/lp/parse/ConstraintParser.java [ROMUtilitiesLambda]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
