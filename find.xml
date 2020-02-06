@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../src/SandopFCWeeklyPlanGenerationWorkflowLambda/tst/com/amazon/sandopfcweeklyplangenerationworkflowlambda/builder/CrossCountryTransferRatioNormalizerTest.java [SandopFCWeeklyPlanGenerationWorkflowLambda]'" />
+    <option name="defaultScopeName" value="File '.../src/SandopFCWeeklyPlanGenerationWorkflowLambda/tst/com/amazon/sandopfcweeklyplangenerationworkflowlambda/builder/CrossCountryTransferRatioNormalizerTest.java [SandopFCWeeklyPlanGenerationWorkflowLambda]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../src/SandopFCWeeklyPlanGenerationWorkflowLambda/tst/com/amazon/sandopfcweeklyplangenerationworkflowlambda/builder/CrossCountryTransferRatioNormalizerTest.java [SandopFCWeeklyPlanGenerationWorkflowLambda]'" />
   </component>
 </application>
