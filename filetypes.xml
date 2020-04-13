@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
+      <removed_mapping ext="config" type="LOMBOK_CONFIG" />
       <mapping pattern="100activitySpinningCheck" type="PLAIN_TEXT" />
       <mapping pattern="create" type="PLAIN_TEXT" />
       <mapping pattern="TransshipRouteOptimizationServiceGammaSimulation" type="PLAIN_TEXT" />
@@ -28,6 +29,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="launch" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="config" type="LOMBOK_CONFIG" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
