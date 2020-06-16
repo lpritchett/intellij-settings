@@ -14,4 +14,7 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="SHOW_INLINE_DIALOG" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
 </application>
