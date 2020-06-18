@@ -1,0 +1,5 @@
+<application>
+  <component name="KotlinRefactoringSettings">
+    <option name="INLINE_METHOD_THIS" value="true" />
+  </component>
+</application>
