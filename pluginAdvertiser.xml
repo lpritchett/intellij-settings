@@ -2365,6 +2365,11 @@
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
                     </value>
                   </entry>
+                  <entry key="cdd.command">
+                    <value>
+                      <FeaturePluginData displayName="Cloud Desktop" pluginName="Black Caiman - Internal Amazon Development Toolkit" pluginId="com.amazon.ijbp" />
+                    </value>
+                  </entry>
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
