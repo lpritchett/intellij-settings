@@ -35,7 +35,7 @@
     </context>
   </template>
   <template name="tolist" value=".collect(Collectors.toList())" description="Create to List after Stream" toReformat="false" toShortenFQNames="true" />
-  <template name="log" value="private static final org.slf4j.Logger LOGGER = LoggerFactory.getLogger($className$.class);$END$" description="slf4j logger" toReformat="true" toShortenFQNames="true">
+  <template name="log" value="private static final org.slf4j.Logger LOGGER = LoggerFactory.getLogger($className$.class);$END$" description="slf4j logger" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
