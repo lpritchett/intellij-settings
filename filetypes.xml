@@ -4,17 +4,17 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="PRODUCE_SAM_MERGE_FILE" type="PLAIN_TEXT" />
+      <mapping pattern="100activitySpinningCheck" type="PLAIN_TEXT" />
+      <mapping pattern="create" type="PLAIN_TEXT" />
+      <mapping pattern="apollo-shim-static-replacements" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="PRODUCE_BATS_CONFIG_FILE" type="PLAIN_TEXT" />
       <mapping pattern="test_plans" type="PLAIN_TEXT" />
       <mapping pattern="planNotification" type="PLAIN_TEXT" />
-      <mapping pattern="gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
-      <mapping pattern="100activitySpinningCheck" type="PLAIN_TEXT" />
       <mapping pattern="TransshipRouteOptimizationServiceGammaSimulation" type="PLAIN_TEXT" />
-      <mapping pattern="apollo-shim-static-replacements" type="PLAIN_TEXT" />
-      <mapping pattern="create" type="PLAIN_TEXT" />
-      <mapping pattern="PRODUCE_SAM_MERGE_FILE" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="PRODUCE_BATS_CONFIG_FILE" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="ion" type="PLAIN_TEXT" />
