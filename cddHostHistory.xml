@@ -2,10 +2,11 @@
   <component name="cddHostHistory">
     <option name="historyMap">
       <map>
-        <entry key="dev-dsk-lukeprit-2b-89142ef4.us-west-2.amazon.com" value="1650322105540" />
+        <entry key="dev-dsk-lukeprit-2b-89142ef4.us-west-2.amazon.com" value="1650386553977" />
         <entry key="dev-dsk-lukeprit-2b-bb174ab3.us-west-2.amazon.com" value="1616784803352" />
         <entry key="dev-dsk-lukeprit-2b-bc68fea8.us-west-2.amazon.com" value="1632260222688" />
       </map>
     </option>
+    <option name="lastTwoWaySyncPreference" value="true" />
   </component>
 </application>
