@@ -1,0 +1,5 @@
+<application>
+  <component name="BlackCaimanRsyncSettings">
+    <option name="excludeGit" value="false" />
+  </component>
+</application>
