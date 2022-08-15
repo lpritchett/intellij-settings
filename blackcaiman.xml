@@ -1,5 +1,6 @@
 <application>
   <component name="BlackCaimanRsyncSettings">
     <option name="excludeGit" value="false" />
+    <option name="unixRsyncCliLocation" value="/usr/local/Cellar/rsync/3.2.5/bin/rsync" />
   </component>
 </application>
