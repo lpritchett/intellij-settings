@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dev-dsk-lukeprit-2b-89142ef4.us-west-2.amazon.com" id="7ee1d996-ea79-4049-967f-0fc0ad7ec7c4" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="lukeprit" useOpenSSHConfig="true" />
-      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="lukeprit.aka.corp.amazon.com" id="e46dd6aa-a8ef-46ce-af5b-0d803c3d893b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="lukeprit" useOpenSSHConfig="true" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="lukeprit.aka.corp.amazon.com" id="52d02cba-6d46-45cd-8554-a5b778606bf8" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="lukeprit" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
